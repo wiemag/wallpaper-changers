@@ -1,7 +1,16 @@
-Wallpaper changers for cinnamon and gnome
+Wallpaper changers for cinnamon, gnome, and openbox
 -----------------------------------------
 
 Very simple scripts to change the desktop background/wallpaper.
+
+
+SCRIPTS
+
+- cinnamon-wp-changer.sh
+- cinnamon-wp-now.sh
+- gnome-wp-changer.sh
+- gnome-wp-now.sh
+- wp-changer.sh          (Works with cinnamon, gnome, and openbox.)
 
 
 USAGE
