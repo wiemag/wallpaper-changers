@@ -28,4 +28,4 @@ No dependencies or conflicts.
 
 FURTHER DEVELOPMENT
 
-The author would like to remove the sleep command and run the scripts through timers, but 'sleep' makes it possible to randomize the time the wallpaper is changed.
+The author would like to remove the sleep command and run the scripts through timers, but 'sleep' makes it possible to randomize the time the wallpaper is changed at.
